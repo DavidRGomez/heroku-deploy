@@ -1,1 +1,1 @@
-<?php inclue_once("<desktop/basic-portfolio/index.html>") ?>
+<?php include_once("index.html>") ?>
